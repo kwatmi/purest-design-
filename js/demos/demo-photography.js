@@ -1,8 +1,4 @@
-/*
-Name: 			Photography
-Written by: 	Okler Themes - (http://www.okler.net)
-Theme Version:	8.0.0
-*/
+
 
 // Demo Config
 theme.PluginScrollToTop.initialize = function() {};
